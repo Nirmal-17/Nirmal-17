@@ -1,6 +1,4 @@
 ## Hi there 👋
-
-<!--
 **Nirmal-17/Ni<h1 align="center">Hi 👋, I'm Nirmal Dahal</h1>
 <h3 align="center">A passionate dotnet learner from Nepal</h3>
 
