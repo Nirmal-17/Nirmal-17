@@ -1,5 +1,5 @@
 ## Hi there 👋
-**Nirmal-17/Ni<h1 align="center">Hi 👋, I'm Nirmal Dahal</h1>
+**Nirmal-17<h1 align="center">Hi 👋, I'm Nirmal Dahal</h1>
 <h3 align="center">A passionate dotnet learner from Nepal</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nirmal-17" alt="nirmal-17" /></a> </p>
