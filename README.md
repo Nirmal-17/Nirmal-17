@@ -1,10 +1,10 @@
 ## Hi there 👋
 Nirmal-17<h1 align="center">Hi 👋, I'm Nirmal Dahal</h1>
-<h3 align="center">A passionate dotnet learner from Nepal</h3>
+<h3 align="center">A passionate learner and coder from Nepal</h3>
 
-- 🌱 I’m currently learning **Dotnet**
+- 🌱 I’m currently learning.............
 
-- 💬 Ask me about **HTML,CSS,BASIC JS AND ASP DOTNET**
+- 💬 Ask me about **HTML,CSS,BASIC JS, Dotnet basics, flutter basics, UI/UX.......**
 
 - 📫 How to reach me **nirmaldahal19@gmail.com**
 
