@@ -2,9 +2,9 @@
 Nirmal-17<h1 align="center">Hi 👋, I'm Nirmal Dahal</h1>
 <h3 align="center">A passionate learner and coder from Nepal</h3>
 
-- 🌱 I’m currently learning.............
+- 🌱 I’m currently learning web development and others.
 
-- 💬 Ask me about **HTML,CSS,BASIC JS, Dotnet basics, flutter basics, UI/UX.......**
+- 💬 Ask me about **HTML,CSS,BASIC JS, Dotnet basics, flutter basics, UI/UX, NodeJS.......**
 
 - 📫 How to reach me **nirmaldahal19@gmail.com**
 
