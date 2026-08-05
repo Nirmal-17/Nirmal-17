@@ -1,10 +1,6 @@
 ## Hi there 👋
 Nirmal-17<h1 align="center">Hi 👋, I'm Nirmal Dahal</h1>
-<h3 align="center">A passionate learner and coder from Nepal</h3>
-
-- 🌱 I’m currently learning web development and others.
-
-- 💬 Ask me about **HTML,CSS,BASIC JS, Dotnet basics, flutter basics, UI/UX, NodeJS.......**
+<h3 align="center">B.Sc CSIT GRADUATING STUDENT OF TU</h3>
 
 - 📫 How to reach me **nirmaldahal19@gmail.com**
 
@@ -15,4 +11,4 @@ Nirmal-17<h1 align="center">Hi 👋, I'm Nirmal Dahal</h1>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p>Basic Javascript, CSS</p>
+<p>HTML,Basic Javascript, CSS,REACT,TAILWIND</p>
