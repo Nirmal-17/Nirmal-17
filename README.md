@@ -3,6 +3,11 @@ Nirmal-17<h1 align="center">Hi 👋, I'm Nirmal Dahal</h1>
 <h3 align="center">B.Sc CSIT GRADUATING STUDENT OF TU</h3>
 
 - 📫 How to reach me **nirmaldahal19@gmail.com**
+- ## 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Nirmal-17&theme=github-dark" alt="GitHub Streak" />
+</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
