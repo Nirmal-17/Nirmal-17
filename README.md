@@ -8,12 +8,10 @@ Nirmal-17<h1 align="center">Hi 👋, I'm Nirmal Dahal</h1>
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Nirmal-17&theme=github-dark" alt="GitHub Streak" />
 </p>
-## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Nirmal-17/Nirmal-17/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Nirmal-17&theme=tokyonight&row=2&column=4" alt="GitHub Trophies" />
 </p>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="<a href="https://linkedin.com/in/nirmal-dahal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nirmal dahal" height="30" width="40" /></a>
