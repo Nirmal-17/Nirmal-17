@@ -8,6 +8,11 @@ Nirmal-17<h1 align="center">Hi 👋, I'm Nirmal Dahal</h1>
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Nirmal-17&theme=github-dark" alt="GitHub Streak" />
 </p>
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Nirmal-17/Nirmal-17/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
